@@ -1,0 +1,305 @@
+commodity,sample_group,sample_fdc_id,sample_description,moisture,fat,protein,carbohydrate,fiber,ash,sugars,sodium
+apple,1821,1105782,"APPLES, FUJI",82.0,0.1,,,2.1,0.18,,0.0
+apple,1822,1105797,"APPLES, FUJI",83.8,0.2,,,2.1,0.16,,0.0
+apple,1823,1105811,"APPLES, FUJI",84.0,0.1,,,1.9,0.75,,0.0
+apple,1824,1105825,"APPLES, FUJI",83.2,0.0,,,2.3,0.33,,0.0
+apple,1825,1105839,"APPLES, FUJI",83.8,0.2,,,2.0,1.49,,0.0
+apple,1826,1105853,"APPLES, FUJI",84.7,0.3,,,2.0,0.0,,0.0
+apple,1827,1105868,"APPLES, FUJI",83.7,0.2,,,2.2,0.22,,8.0
+apple,1828,1105882,"APPLES, FUJI",83.8,0.2,,,2.0,0.3,,0.0
+apple,1813,1105665,"APPLES, GALA",83.9,0.2,,,2.7,1.26,,0.0
+apple,1814,1105679,"APPLES, GALA",84.6,0.0,,,2.0,0.18,,0.0
+apple,1815,1105694,"APPLES, GALA",84.1,0.1,,,2.1,0.18,,0.0
+apple,1816,1105708,"APPLES, GALA",85.0,0.2,,,1.8,0.25,,2.0
+apple,1817,1105722,"APPLES, GALA",85.0,0.2,,,2.4,0.41,,0.0
+apple,1818,1105737,"APPLES, GALA",85.6,0.2,,,1.9,0.0,,0.0
+apple,1819,1105753,"APPLES, GALA",84.3,0.1,,,1.8,0.11,,0.0
+apple,1820,1105767,"APPLES, GALA",84.6,0.2,,,2.1,0.0,,0.0
+apple,1805,1105548,"APPLES, GRANNY SMITH",85.0,0.2,,,2.4,0.12,,0.0
+apple,1806,1105563,"APPLES, GRANNY SMITH",85.1,0.2,,,2.4,0.24,,0.0
+apple,1807,1105578,"APPLES, GRANNY SMITH",83.1,0.0,,,3.1,0.0,,0.0
+apple,1808,1105593,"APPLES, GRANNY SMITH",86.2,0.3,,,2.2,0.22,,0.0
+apple,1809,1105607,"APPLES, GRANNY SMITH",86.4,0.1,,,2.3,0.95,,0.0
+apple,1810,1105621,"APPLES, GRANNY SMITH",86.0,0.2,,,2.3,0.49,,0.0
+apple,1811,1105635,"APPLES, GRANNY SMITH",85.7,0.0,,,2.5,0.33,,0.0
+apple,1812,1105650,"APPLES, GRANNY SMITH",83.6,0.1,,,2.9,0.16,,0.0
+apple,1797,1105431,"APPLES, HONEYCRISP",85.5,0.0,,,1.7,0.12,,0.0
+apple,1798,1105445,"APPLES, HONEYCRISP",86.6,0.0,,,1.5,0.0,,0.0
+apple,1799,1105459,"APPLES, HONEYCRISP",84.9,0.2,,,1.6,0.0,,0.0
+apple,1800,1105473,"APPLES, HONEYCRISP",84.1,0.0,,,1.9,0.17,,0.0
+apple,1801,1105488,"APPLES, HONEYCRISP",85.4,0.2,,,1.8,0.0,,0.0
+apple,1802,1105502,"APPLES, HONEYCRISP",84.8,0.2,,,1.5,0.0,,0.0
+apple,1803,1105516,"APPLES, HONEYCRISP",82.9,0.0,,,1.7,0.29,,1.0
+apple,1804,1105532,"APPLES, HONEYCRISP",86.0,0.2,,,2.0,0.11,,0.0
+apple,1789,1105315,"APPLES, RED DELICIOUS",85.2,0.1,,,1.4,0.0,,0.0
+apple,1790,1105329,"APPLES, RED DELICIOUS",85.9,0.2,,,2.0,0.17,,0.0
+apple,1791,1105343,"APPLES, RED DELICIOUS",83.5,0.2,,,2.1,0.0,,0.0
+apple,1792,1105358,"APPLES, RED DELICIOUS",86.9,0.1,,,2.2,0.14,,0.0
+apple,1793,1105373,"APPLES, RED DELICIOUS",83.9,0.3,,,1.9,0.22,,0.0
+apple,1794,1105387,"APPLES, RED DELICIOUS",84.0,0.2,,,2.3,0.14,,0.0
+apple,1795,1105401,"APPLES, RED DELICIOUS",85.0,0.3,,,2.2,0.38,,0.0
+apple,1796,1105415,"APPLES, RED DELICIOUS",82.9,0.3,,,2.2,0.14,,0.0
+banana,1695,790647,"BANANAS, OVERRIPE",77.0,0.3,,,,0.62,,
+banana,1696,790662,"BANANAS, OVERRIPE",80.6,0.38,,,1.8,0.62,,
+banana,1697,790680,"BANANAS, OVERRIPE",79.1,0.1,,,,0.78,,
+banana,1698,790695,"BANANAS, OVERRIPE",78.9,0.11,,,1.8,0.63,,
+banana,1699,790711,"BANANAS, OVERRIPE",78.2,0.11,,,1.6,0.74,,
+banana,1700,790728,"BANANAS, OVERRIPE",75.9,0.34,,,2.3,0.64,,
+banana,1771,1104963,"BANANAS, OVERRIPE",78.9,0.11,,,1.8,0.63,,
+banana,1772,1104981,"BANANAS, OVERRIPE",79.1,0.1,,,,0.78,,
+banana,1773,1104998,"BANANAS, OVERRIPE",77.0,0.3,,,,0.62,,
+banana,1774,1105015,"BANANAS, OVERRIPE",75.9,0.34,,,2.3,0.64,,
+banana,1775,1105034,"BANANAS, OVERRIPE",78.2,0.11,,,1.6,0.74,,
+banana,1776,1105053,"BANANAS, OVERRIPE",80.6,0.38,,,1.8,0.62,,
+banana,1701,790745,"BANANAS, OVERRIPE, MEDIUM SIZE",,,,,1.1,,,
+banana,1720,790775,"BANANAS, RIPE",74.8,0.62,,,2.2,0.65,,0.0
+banana,1721,790795,"BANANAS, RIPE",72.2,0.44,,,1.8,0.7,,0.0
+banana,1722,790816,"BANANAS, RIPE",76.0,0.1,,,1.8,0.65,,0.0
+banana,1725,790867,"BANANAS, RIPE",76.4,0.15,,,2.1,0.67,,0.0
+banana,1729,790937,"BANANAS, RIPE",76.3,0.0,,,,0.65,,0.0
+banana,1731,790973,"BANANAS, RIPE",74.4,0.0,,,,0.65,,0.0
+banana,1777,1105074,"BANANAS, RIPE",74.8,0.62,,,2.2,0.65,,0.0
+banana,1780,1105135,"BANANAS, RIPE",72.2,0.44,,,1.8,0.7,,0.0
+banana,1781,1105158,"BANANAS, RIPE",76.4,0.15,,,2.1,0.67,,0.0
+banana,1782,1105180,"BANANAS, RIPE",76.0,0.1,,,1.8,0.65,,0.0
+banana,1783,1105202,"BANANAS, RIPE",76.3,0.0,,,,0.65,,0.0
+banana,1787,1105274,"BANANAS, RIPE",74.4,0.0,,,,0.65,,0.0
+banana,1710,790760,"BANANAS, RIPE, MEDIUM SIZE",,,,,1.1,,,
+banana,1712,790763,"BANANAS, RIPE, MEDIUM SIZE",,,,,,,,
+banana,1723,790836,"BANANAS, SLIGHTLY RIPE",75.2,0.14,,,1.7,0.69,,
+banana,1724,790853,"BANANAS, SLIGHTLY RIPE",75.6,0.71,,,,0.71,,
+banana,1726,790887,"BANANAS, SLIGHTLY RIPE",75.0,0.11,,,,0.76,,
+banana,1727,790901,"BANANAS, SLIGHTLY RIPE",75.0,0.1,,,1.9,0.75,,
+banana,1728,790919,"BANANAS, SLIGHTLY RIPE",75.3,0.43,,,1.7,0.81,,
+banana,1730,790955,"BANANAS, SLIGHTLY RIPE",77.0,0.72,,,1.7,0.73,,
+banana,1778,1105096,"BANANAS, SLIGHTLY RIPE",75.0,0.1,,,1.9,0.75,,
+banana,1779,1105116,"BANANAS, SLIGHTLY RIPE",75.2,0.14,,,1.7,0.69,,
+banana,1784,1105222,"BANANAS, SLIGHTLY RIPE",75.3,0.43,,,1.7,0.81,,
+banana,1785,1105242,"BANANAS, SLIGHTLY RIPE",75.0,0.11,,,,0.76,,
+banana,1786,1105258,"BANANAS, SLIGHTLY RIPE",75.6,0.71,,,,0.71,,
+banana,1788,1105294,"BANANAS, SLIGHTLY RIPE",77.0,0.72,,,1.7,0.73,,
+banana,1708,790755,"BANANAS, SLIGHTLY RIPE, MEDIUM SIZE",,,,,1.2,,,
+bread,472,325810,"White bread, PEPPERIDGE FARMS (CO1,CT1) - CY090F1",33.0,5.4,,,2.1,2.52,,530.0
+bread,471,325795,"White bread, PEPPERIDGE FARMS (FL1,MO1) - CY090F2",34.4,5.2,,,2.3,2.39,,482.0
+bread,473,325825,"White bread, PEPPERIDGE FARMS (NC1,NY1,MI1) - CY090F4",33.0,5.3,,,2.2,2.48,,525.0
+bread,475,325856,"White bread, SARA LEE SOFT AND SMOOTH CLASSIC WHOLE (AL1,CA1) - CY090F6",35.9,3.6,,,4.0,2.61,,333.0
+bread,474,325841,"White bread, SARA LEE SOFT AND SMOOTH CLASSIC WHOLE (IN1,MO1) - CY090F5",34.9,4.0,,,2.9,2.88,,405.0
+bread,461,325725,"White bread, store brand, AMERICAS CHOICE LARGE WHITE (NY1) - CY090EO",38.8,2.4,,,,1.59,,431.0
+bread,460,325718,"White bread, store brand, FOOD WORLD SANDWICH BREAD (AL1) - CY090EP",41.1,2.9,,,,1.93,,555.0
+bread,469,325781,"White bread, store brand, GREAT VALUE WHITE (OK1) - CY090EY",34.9,3.4,,,,2.2,,500.0
+bread,464,325746,"White bread, store brand, KROGER BREAD (IN1) - CY090EN",37.7,2.3,,,,1.74,,471.0
+bread,467,325767,"White bread, store brand, KROGER BREAD (MI1) - CY090EX",34.0,3.2,,,,1.96,,528.0
+bread,465,325753,"White bread, store brand, LOWES FOOD STORE (NC1) - CY090ES",34.6,3.2,,,,1.87,,474.0
+bread,457,325689,"White bread, store brand, PUBLIX BREAD (FL1) - CY090EL",,,,,2.1,,,
+bread,468,325774,"White bread, store brand, PUBLIX BREAD (FL1) - CY090EV",34.5,3.3,,,,1.72,,410.0
+bread,463,325739,"White bread, store brand, SAFEWAY PREMIUM WHITE (CA1) - CY090EQ",36.8,3.3,,,,2.19,,552.0
+bread,470,325788,"White bread, store brand, SAFEWAY PREMIUM WHITE (CO1) - CY090ET",35.3,3.1,,,,1.68,,465.0
+bread,466,325760,"White bread, store brand, SHOP RITE ROUND TOP WHITE (CT1) - CY090EU",36.2,2.6,,,,1.96,,477.0
+bread,462,325732,"White bread, store brand, SUNNYSIDE FARMS BREAD (CA2) - CY090ER",36.4,4.3,,,,1.91,,499.0
+bread,458,325698,"White bread, store brand, mixed composite (AL1,CA1) - CY090EI",,,,,1.8,,,
+bread,456,325679,"White bread, store brand, mixed composite (CA2,NC) - CY090EJ",,,,,2.4,,,
+bread,459,325708,"White bread, store brand, mixed composite (CO2,CT1) - CY090EK",,,,,1.8,,,
+bread,454,325659,"White bread, store brand, mixed composite (IN1,NY1) - CY090EH",,,,,1.7,,,
+bread,455,325669,"White bread, store brand, mixed composite (MI1,OK1) - CY090EM",,,,,1.8,,,
+bread,1279,335185,"Whole wheat bread, NATURES OWN (AL,OK) - CY1202L",40.2,3.22,,,5.7,1.95,,545.0
+bread,1275,335122,"Whole wheat bread, NATURES OWN (FL,NC) - CY1202P",40.3,3.52,,,5.9,2.34,,428.0
+bread,1277,335153,"Whole wheat bread, NATURES OWN (IN,CT) - CY1202N",40.0,3.34,,,5.8,2.29,,442.0
+bread,1276,335137,"Whole wheat bread, STROEHMANN DUTCH COUNTY (NY) - CY1202F",39.7,3.15,,,5.2,2.49,,417.0
+bread,1278,335169,"Whole wheat bread, Store brand/other, GREAT VALUE (AL,OK) - CY1202R",38.8,3.62,,,5.3,2.68,,516.0
+bread,1274,335117,"Whole wheat bread, Store brand/other, HEALTHY IDEAS (CA2,CT) - CY1202S",38.4,4.0,,,,2.27,,436.0
+bread,1280,335202,"Whole wheat bread, Store brand/other, HY VEE & PUBLIX (FL,MO) - CY1202U",37.7,3.89,,,,2.48,,464.0
+bread,1273,335110,"Whole wheat bread, Store brand/other, KROGER & AMERICAS CHOICE (IN,NY) - CY1202Q",37.7,3.4,,,,2.48,,536.0
+bread,1282,335224,"Whole wheat bread, Store brand/other, PEPPERIDGE FARM (MI,NC) - CY1202V",36.5,3.56,,,8.3,1.95,,255.0
+bread,1281,335208,"Whole wheat bread, Store brand/other, SAFEWAY (CA1,CO) - CY1202T",37.4,3.78,,,6.1,2.67,,457.0
+cheese,415,325181,"American cheese, pasteurized process, BEST CHOICE DELUXE (OK) - CY090YA - other",,,,,,,,1770.0
+cheese,408,325153,"American cheese, pasteurized process, GREAT VALUE DELUXE  (AL) - CY090Y1 - other",,,,,,,,1760.0
+cheese,416,325186,"American cheese, pasteurized process, HYVEE DELUXE SLICED (MO) - CY090Y8 - other",,,,,,,,1890.0
+cheese,403,325119,"American cheese, pasteurized process, KRAFT (AL,CA1) - CY090XC",39.7,30.9,,,,7.39,,1590.0
+cheese,397,325061,"American cheese, pasteurized process, KRAFT (CA2,NC) - CY090XD",39.6,31.2,,,,7.13,,1750.0
+cheese,396,325046,"American cheese, pasteurized process, KRAFT (IN,NY) - CY090XB",39.4,31.0,,,,7.3,,1700.0
+cheese,401,325107,"American cheese, pasteurized process, KRAFT (MI,OK) - CY090XG",39.8,31.0,,,,6.81,,1690.0
+cheese,400,325101,"American cheese, pasteurized process, KRAFT DELI DELUXE (CO) - CY090XE",40.1,30.8,,,,7.25,,1720.0
+cheese,406,325138,"American cheese, pasteurized process, KRAFT DELI DELUXE (FL,MO) - CY090XF",39.7,30.7,,,,7.46,,1670.0
+cheese,404,325129,"American cheese, pasteurized process, KROGER DELUXE (IN) - CY090XZ - other",,,,,,,,1420.0
+cheese,407,325148,"American cheese, pasteurized process, KROGER DELUXE (MI) - CY090XY - other",39.3,29.8,,,,4.59,,1270.0
+cheese,398,325075,"American cheese, pasteurized process, LAND-O-LAKES (FL) - CY090XL",38.4,31.0,,,,5.68,,1620.0
+cheese,405,325133,"American cheese, pasteurized process, LUCERNE  (CO,CA1) - CY090XW - other",39.0,30.1,,,,7.08,,
+cheese,409,325157,"American cheese, pasteurized process, LUCERNE DELUXE SLICES (CA1) - CY090Y2 - other",,,,,,,,1520.0
+cheese,413,325173,"American cheese, pasteurized process, LUCERNE DELUXE SLICES (CO) - CY090Y5 - other",,,,,,,,1530.0
+cheese,417,325190,"American cheese, pasteurized process, PUBLIX DELUXE (FL) - CY090Y7 - other",,,,,,,,1570.0
+cheese,414,325177,"American cheese, pasteurized process, SHOP RITE SINGLES (CT) - CY090Y6 - other",,,,,,,,1700.0
+cheese,412,325169,"American cheese, pasteurized process, SUNNYSIDE FARMS (CA2) - CY090Y3 - other",,,,,,,,1860.0
+cheese,418,325194,"American cheese, pasteurized process, TROPICAL DELUXE AMERICAN CHEESE (NY) - CY090Y9 - other",,,,,,,,1740.0
+cheese,395,325037,"American cheese, pasteurized process, mixed store brand (AL,OK) - CY090XU - other",39.5,30.2,,,,5.92,,
+cheese,402,325114,"American cheese, pasteurized process, mixed store brand (CA2,MO) - CY090XV - other",40.4,30.6,,,,5.93,,
+cheese,411,325164,"American cheese, pasteurized process, mixed store brand (FL,NY) - CY090XX - other",39.2,30.1,,,,7.04,,
+cheese,399,325096,"American cheese, pasteurized process, mixed store brand (IN,CT) - CY090XT - other",40.8,30.0,,,,6.12,,
+cheese,410,325161,"American cheese, pasteurized process,, HAVILY CHEESE COMPANY (MO) - CY090Y4 - other",,,,,,,,1800.0
+cheese,227,323295,"CHEESE, RICOTTA, WHOLE MILK, GALBANI",72.3,11.2,,,,1.4,,84.0
+cheese,229,323311,"CHEESE, RICOTTA, WHOLE MILK, GALBANI",72.4,11.2,,,,1.38,,94.0
+cheese,230,323326,"CHEESE, RICOTTA, WHOLE MILK, GALBANI",72.6,11.3,,,,1.35,,91.0
+cheese,237,323425,"CHEESE, RICOTTA, WHOLE MILK, GALBANI",72.9,10.85,,,,1.39,,90.0
+cheese,234,323378,"CHEESE, RICOTTA, WHOLE MILK, LUCERNE",72.6,11.9,,,,1.2,,109.0
+cheese,231,323342,"CHEESE, RICOTTA, WHOLE MILK, POLLY-O",72.7,11.5,,,,1.51,,161.0
+cheese,228,323304,"CHEESE, RICOTTA, WHOLE MILK, SORRENTO",75.1,8.2,,,,1.25,,98.0
+cheese,232,323361,"CHEESE, RICOTTA, WHOLE MILK, STORE/OTHER",72.4,11.5,,,,1.77,,121.0
+cheese,233,323370,"CHEESE, RICOTTA, WHOLE MILK, STORE/OTHER",72.1,12.6,,,,1.29,,113.0
+cheese,235,323393,"CHEESE, RICOTTA, WHOLE MILK, STORE/OTHER",74.2,10.1,,,,1.16,,101.0
+cheese,236,323408,"CHEESE, RICOTTA, WHOLE MILK, STORE/OTHER",72.8,11.2,,,,1.23,,98.0
+cheese,1322,747055,CHICK-FIL-A - AMERICAN CHEESE,39.8,31.2,,,,5.52,,1630.0
+cheese,1324,747068,CHICK-FIL-A - AMERICAN CHEESE,39.4,31.6,,,,5.64,,1600.0
+cheese,1325,747075,CHICK-FIL-A - AMERICAN CHEESE,39.0,31.5,,,,5.69,,1610.0
+cheese,1326,747082,CHICK-FIL-A - AMERICAN CHEESE,39.6,31.2,,,,5.41,,1590.0
+cheese,1330,747109,CHICK-FIL-A - AMERICAN CHEESE,39.2,31.3,,,,5.56,,1610.0
+cheese,593,327960,"Cheddar cheese, sliced, CRACKER BARREL (AL,CT) - CY120I6",35.7,36.6,,,,3.51,,640.0
+cheese,592,327948,"Cheddar cheese, sliced, CRACKER BARREL (FL,MO) - CY120I7",35.7,37.6,,,,3.59,,650.0
+cheese,594,327980,"Cheddar cheese, sliced, CRACKER BARREL (MI) - CY120I8",36.3,36.0,,,,3.53,,619.0
+cheese,590,327924,"Cheddar cheese, sliced, CRACKER BARREL (NY,NC) - CY120I5",34.8,35.9,,,,3.64,,608.0
+cheese,596,328008,"Cheddar cheese, sliced, SARGENTO NATURAL SHARP CHEDDAR DELI STYLE (CA2,IN) - CY120IB",38.2,33.7,,,,3.42,,587.0
+cheese,600,328070,"Cheddar cheese, sliced, SARGENTO SHARP  (AL,CA1) - CY120IA",35.8,33.7,,,,3.66,,650.0
+cheese,601,328094,"Cheddar cheese, sliced, SARGENTO SHARP  (CT,MI) - CY120IC",37.0,33.3,,,,3.72,,671.0
+cheese,595,327998,"Cheddar cheese, sliced, SARGENTO SHARP  (NY) - CY120I9",34.7,33.6,,,,3.77,,640.0
+cheese,597,328020,"Cheddar cheese, sliced, TILLAMOOK (CA2,IN) - CY120I4",32.8,37.3,,,,3.74,,636.0
+cheese,591,327936,"Cheddar cheese, sliced, TILLAMOOK (CO,CA1) - CY120I3",33.0,36.2,,,,3.72,,686.0
+cheese,599,328057,"Cheddar cheese, sliced, store brand, CRYSTAL FARMS & SHULLSBURG WISCONSIN (MO,NY) - CY120IF",35.1,33.4,,,,3.68,,619.0
+cheese,607,328191,"Cheddar cheese, sliced, store brand, FOOD LION (NC) - CY120IK",36.0,33.3,,,,3.83,,674.0
+cheese,605,328153,"Cheddar cheese, sliced, store brand, GREAT VALUE DELI STYLE SLICED SHARP  (AL,OK) - CY120IG",35.1,33.5,,,,3.79,,699.0
+cheese,603,328122,"Cheddar cheese, sliced, store brand, HYVEE CRACKER CUTS & PUBLIX (FL,MO) - CY120IJ",37.1,32.9,,,,3.69,,662.0
+cheese,604,328130,"Cheddar cheese, sliced, store brand, LUCERNE SLICED SHARP CHEDDAR NATURAL CHEESE (CO,CA1) - CY120IE",37.1,32.8,,,,3.76,,648.0
+cheese,606,328175,"Cheddar cheese, sliced, store brand, PUBLIX & SHOPRITE (CT,FL) - CY120II",35.2,32.9,,,,3.84,,693.0
+cheese,602,328114,"Cheddar cheese, sliced, store brand, SUNNYSIDE FARMS DELI STYLE SLICED MEDIUM (CA2) - CY120IH",36.4,34.9,,,,3.65,,682.0
+cheese,598,328045,"Cheddar cheese, sliced, storebrand, KROGER (IN,MI) - CY120ID",34.9,34.6,,,,3.44,,644.0
+cheese,624,328454,"Cheese, cheddar, mild, block/chunk KRAFT (IN, GA, TX) -  CY121H1",37.2,34.9,,,,3.44,,671.0
+cheese,627,328508,"Cheese, cheddar, mild, block/chunk KRAFT (KY, NE, NC) -  CY121H0",38.8,33.0,,,,3.65,,668.0
+cheese,622,328432,"Cheese, cheddar, mild, block/chunk KRAFT (PA, CA1, VA) -  CY121GZ",39.9,33.1,,,,3.69,,725.0
+cheese,629,328541,"Cheese, cheddar, mild, block/chunk, store brand   (NC, NJ, TX) -  CY121H2",39.1,33.6,,,,3.58,,
+cheese,626,328490,"Cheese, cheddar, mild, block/chunk, store brand  (AZ, IN, GA) -  CY121H5",38.0,34.8,,,,3.7,,689.0
+cheese,631,328559,"Cheese, cheddar, mild, block/chunk, store brand  (PA, CA2, IA) -  CY121H4",,,,,,,,
+cheese,625,328472,"Cheese, cheddar, mild, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121H3",39.2,33.5,,,,3.69,,673.0
+cheese,618,328358,"Cheese, cheddar, natural shredded mild, KRAFT (IN, GA) -  CY121GN",38.2,32.5,,,,3.61,,607.0
+cheese,609,328227,"Cheese, cheddar, natural shredded mild, KRAFT (KY, NE, NC) -  CY121GM",38.1,32.7,,,,3.45,,575.0
+cheese,614,328326,"Cheese, cheddar, natural shredded mild, KRAFT (PA, IA) -  CY121GL",37.0,33.6,,,,3.78,,647.0
+cheese,615,328335,"Cheese, cheddar, natural shredded mild, store brand  (GA, IA, PA) -  CY121GO",37.6,33.7,,,,3.72,,
+cheese,619,328376,"Cheese, cheddar, natural shredded mild, store brand, GREAT VALUE (CA1, KY, NE) -  CY121GP",,,,,,,,702.0
+cheese,621,328413,"Cheese, cheddar, natural shredded mild, store brand, sKROGER (CA2, TX) -  CY121GR",36.5,32.8,,,,3.7,,615.0
+cheese,620,328394,"Cheese, cheddar, natural shredded mild, white, store brand (AZ, IN, NJ, NC) -  CY121GQ",37.2,32.1,,,,3.7,,623.0
+cheese,610,328248,"Cheese, cheddar, natural shredded sharp, KRAFT (AZ, IN , GA) -  CY121GU",36.2,34.1,,,,3.87,,636.0
+cheese,613,328305,"Cheese, cheddar, natural shredded sharp, KRAFT (KY, NE, NC) -  CY121GT",36.2,35.1,,,,3.58,,615.0
+cheese,616,328344,"Cheese, cheddar, natural shredded sharp, KRAFT (PA, CA1, IA, TX) -  CY121GS",36.0,34.6,,,,3.71,,628.0
+cheese,611,328266,"Cheese, cheddar, natural shredded sharp, store brand (AZ, GA, NC, PA) -  CY121GX",36.7,32.7,,,,3.8,,657.0
+cheese,617,328351,"Cheese, cheddar, natural shredded sharp, store brand (IA, IN, NJ) -  CY121GV",36.3,33.9,,,,3.59,,
+cheese,608,328208,"Cheese, cheddar, natural shredded sharp, store brand, GREAT VALUE (CA1, NE) -  CY121GY",36.5,33.1,,,,3.9,,743.0
+cheese,612,328286,"Cheese, cheddar, natural shredded sharp, store brand, sKROGER (CA2, KY, TX) -  CY121GW",35.6,32.9,,,,3.73,,599.0
+cheese,635,328601,"Cheese, cheddar, sharp, block/chunk CABOT, SERIOUSLY SHARP (GA, NJ) -  CY121H9",36.0,34.0,,,,3.66,,685.0
+cheese,628,328529,"Cheese, cheddar, sharp, block/chunk KRAFT (IN, GA) -  CY121H8",37.0,34.1,,,,3.78,,690.0
+cheese,632,328567,"Cheese, cheddar, sharp, block/chunk KRAFT (KY, NE) -  CY121H7",36.9,34.7,,,,3.45,,630.0
+cheese,623,328442,"Cheese, cheddar, sharp, block/chunk KRAFT (PA, CA1, IA) -  CY121H6",36.4,35.0,,,,3.74,,
+cheese,633,328585,"Cheese, cheddar, sharp, block/chunk, store brand (GA, IA, NJ) -  CY121HB",,,,,,,,699.0
+cheese,634,328594,"Cheese, cheddar, sharp, block/chunk, store brand (NC, PA) -  CY121HD",36.9,34.2,,,,3.77,,
+cheese,636,328620,"Cheese, cheddar, sharp, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121HC",37.8,33.6,,,,3.84,,732.0
+cheese,630,328549,"Cheese, cheddar, sharp, block/chunk, store brand, KROGER (CA2, TX) -  CY121HE",37.1,33.1,,,,3.52,,584.0
+cheese,743,329768,"Cheese, dry white, Queso seco, EL MEXICANO BRAND (CA-AL) - CY061GC",37.3,23.6,,,,7.14,,1770.0
+cheese,740,329717,"Cheese, dry white, Queso seco, mixed composite (CA-LA, CA-SD) - CY061GH",43.2,23.8,,,,6.82,,1770.0
+cheese,741,329734,"Cheese, dry white, Queso seco, mixed composite (FL, CA-SB) - CY061GE",44.0,23.6,,,,6.48,,1560.0
+cheese,744,329783,"Cheese, dry white, Queso seco, mixed composite (MD, NM) - CY061GF",44.5,24.0,,,,6.64,,1760.0
+cheese,745,329806,"Cheese, dry white, Queso seco, mixed composite (NY, TX-TR) - CY061GD",42.2,26.3,,,,7.21,,2060.0
+cheese,742,329751,"Cheese, dry white, Queso seco, mixed composite (TX-HA, NV) - CY061GG",41.9,24.8,,,,7.28,,1930.0
+cheese,2343,2259876,"Cheese, feta, whole milk, crumbled",67.81825,11.706625,,,,2.278,,449.48125
+cheese,689,329346,"Cheese, string (low-moisture, part-skim mozzarella), BORDEN (CA1, NE, PA) -  CY121HX",49.4,20.8,,,,3.65,,725.0
+cheese,685,329295,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (AZ, VA) -  CY121HS",50.4,20.3,,,,4.15,,750.0
+cheese,687,329316,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (GA, NJ) -  CY121HU",50.9,20.5,,,,4.17,,777.0
+cheese,683,329271,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (IA, TX) -  CY121HT",50.5,20.2,,,,3.87,,662.0
+cheese,684,329279,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (KY, CA2) -  CY121HQ",50.4,20.4,,,,3.93,,694.0
+cheese,680,329232,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (NE, NC) -  CY121HR",50.7,19.7,,,,3.92,,690.0
+cheese,679,329224,"Cheese, string (low-moisture, part-skim mozzarella), FRIGO (PA, CA1) -  CY121HP",50.8,20.0,,,,4.11,,781.0
+cheese,675,329174,"Cheese, string (low-moisture, part-skim mozzarella), KRAFT (CA1) -  CY121HF",49.1,19.8,,,,3.0,,506.0
+cheese,671,329131,"Cheese, string (low-moisture, part-skim mozzarella), KRAFT (IA) -  CY121HI",50.1,20.3,,,,3.83,,733.0
+cheese,677,329198,"Cheese, string (low-moisture, part-skim mozzarella), KRAFT (IN, TX) -  CY121HH",50.1,19.7,,,,3.82,,728.0
+cheese,674,329160,"Cheese, string (low-moisture, part-skim mozzarella), KRAFT (NE) -  CY121HG",49.6,20.5,,,,3.56,,665.0
+cheese,681,329240,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (AZ, IN) -  CY121HM",48.6,21.0,,,,3.43,,624.0
+cheese,682,329255,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (GA, NJ) -  CY121HO",49.5,20.4,,,,3.61,,731.0
+cheese,678,329216,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (IA, TX) -  CY121HN",50.1,20.9,,,,3.72,,740.0
+cheese,673,329147,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (KY, CA2) -  CY121HK",47.8,21.8,,,,3.92,,785.0
+cheese,676,329189,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (NE, NC) -  CY121HL",49.1,21.6,,,,3.71,,735.0
+cheese,672,329138,"Cheese, string (low-moisture, part-skim mozzarella), SARGENTO (PA, CA1) -  CY121HJ",49.3,21.4,,,,3.67,,710.0
+cheese,690,329359,"Cheese, string (low-moisture, part-skim mozzarella), store brand (AZ, IN, NJ) -  CY121HY",50.1,21.5,,,,3.9,,
+cheese,686,329309,"Cheese, string (low-moisture, part-skim mozzarella), store brand (CA2, NC) -  CY121HW",50.6,19.1,,,,4.16,,940.0
+cheese,688,329331,"Cheese, string (low-moisture, part-skim mozzarella), store brand, KROGER (KY, TX) -  CY121HV",50.4,19.0,,,,3.94,,629.0
+cheese,486,326004,"Cheese, swiss, slices, SARGENTO ULTRA THIN (AL, CA1) 18c-16-02",38.0,30.9,,,,2.89,,181.0
+cheese,489,326030,"Cheese, swiss, slices, SARGENTO ULTRA THIN (CA2, NC) 18c-16-03",37.15,31.0,,,,2.83,,154.0
+cheese,487,326010,"Cheese, swiss, slices, SARGENTO ULTRA THIN (CO, CT) 18c-16-05",37.6,30.85,,,,3.06,,199.0
+cheese,484,325993,"Cheese, swiss, slices, SARGENTO ULTRA THIN (FL) 18c-16-04",38.0,31.0,,,,2.89,,158.0
+cheese,491,326057,"Cheese, swiss, slices, SARGENTO ULTRA THIN (IN, NY) 18c-16-01",37.5,30.35,,,,2.99,,175.0
+cheese,485,325998,"Cheese, swiss, slices, SARGENTO ULTRA THIN (MI, OK) 18c-16-06",37.8,31.4,,,,2.91,,179.0
+cheese,488,326024,"Cheese, swiss, slices, store brand, FOOD LION & AMERICAN CHOICE (NY, NC) 18c-17-06",37.9,30.7,,,,3.18,,248.0
+cheese,494,326100,"Cheese, swiss, slices, store brand, HYVEE & PUBLIX (FL, MO) 18c-17-05",36.8,31.55,,,,2.81,,144.0
+cheese,493,326082,"Cheese, swiss, slices, store brand, KROGER (IN, MI) 18c-17-01",37.25,29.65,,,,3.16,,246.0
+cheese,495,326114,"Cheese, swiss, slices, store brand, LUCERNE (CA2, CO) 18c-17-03",37.5,31.950000000000003,,,,2.81,,170.0
+cheese,490,326051,"Cheese, swiss, slices, store brand, PIGGLY WIGGLY (AL, CA1) 18c-17-02",38.0,30.3,,,,3.06,,161.0
+cheese,492,326076,"Cheese, swiss, slices, store brand, SHOP RITE & GREAT VALUE (CT, OK) 18c-17-04",38.2,32.1,,,,3.03,,204.0
+cheese,641,328679,"Cottage cheese, 2% milkfat, BREAKSTONE (AL,IN) - CY120FS",81.7,2.2,,,,1.24,,277.0
+cheese,637,328638,"Cottage cheese, 2% milkfat, BREAKSTONE (CT,NC) - CY120FR",81.9,1.87,,,,1.24,,270.0
+cheese,638,328646,"Cottage cheese, 2% milkfat, BREAKSTONE (FL) - CY120FT",81.8,2.2,,,,1.29,,276.0
+cheese,642,328695,"Cottage cheese, 2% milkfat, BREAKSTONE (MI,OK) - CY120FU",81.6,2.08,,,,1.23,,267.0
+cheese,640,328660,"Cottage cheese, 2% milkfat, DAISY (CA1,CO) - CY120FQ",81.0,2.27,,,,1.1,,360.0
+cheese,651,328809,"Cottage cheese, 2% milkfat, DAISY (FL,IN) - CY120G3",80.7,2.31,,,,1.27,,420.0
+cheese,648,328769,"Cottage cheese, 2% milkfat, DAISY (MI,NY) - CY120FZ",80.7,2.23,,,,1.22,,346.0
+cheese,646,328736,"Cottage cheese, 2% milkfat, DAISY (MO,CT) - CY120FX",80.30000000000001,2.21,,,,1.06,,345.0
+cheese,647,328751,"Cottage cheese, 2% milkfat, KNUDSEN (CA1,CA2) - CY120FW",80.6,2.4,,,,1.32,,331.0
+cheese,644,328721,"Cottage cheese, 2% milkfat, store brand/other brand, FRIENDSHIP & HORIZON ORGANIC (FL,IN) - CY120FY",80.4,2.11,,,,1.19,,305.0
+cheese,645,328729,"Cottage cheese, 2% milkfat, store brand/other brand, FRIENDSHIP ALL NATURAL & HYVEE (MO,NY) - CY120G0",80.2,2.26,,,,1.23,,306.0
+cheese,639,328652,"Cottage cheese, 2% milkfat, store brand/other brand, HY VEE & DAISY (CA2,MO) - CY120FP",80.9,2.5,,,,1.31,,351.0
+cheese,649,328785,"Cottage cheese, 2% milkfat, store brand/other brand, KING SOOPERS & KRAFT (CO,CT) - CY120G2",81.8,2.19,,,,1.26,,300.0
+cheese,643,328713,"Cottage cheese, 2% milkfat, store brand/other brand, KRAFT SIMPLY & MEADOW GOLD VIVA (AL,CO) - CY120FV",81.5,2.55,,,,1.29,,319.0
+cheese,650,328793,"Cottage cheese, 2% milkfat, store brand/other brand, KROGER & SAFEWAY (CA1,MI) - CY120G1",81.6,2.72,,,,1.57,,334.0
+cheese,652,328824,"Cottage cheese, 2% milkfat, store brand/other brand, SUNNYSIDE FARMS & DAISY (CA2,NC) - CY120G4",81.6,2.64,,,,1.22,,331.0
+cheese,654,328850,"Mozzarella cheese, low-moisture, part-skim, KRAFT (CA1) - CY120IQ",43.3,21.5,,,,3.84,,549.0
+cheese,656,328869,"Mozzarella cheese, low-moisture, part-skim, KRAFT (CA2,NC) - CY120IS",45.3,21.4,,,,3.62,,639.0
+cheese,660,328946,"Mozzarella cheese, low-moisture, part-skim, KRAFT (FL,MO) - CY120IT",42.1,20.2,,,,3.95,,679.0
+cheese,662,328975,"Mozzarella cheese, low-moisture, part-skim, KRAFT (IN,NY) - CY120IR",45.1,21.1,,,,3.94,,658.0
+cheese,666,329036,"Mozzarella cheese, low-moisture, part-skim, KRAFT (MI,OK) - CY120IV",47.5,20.5,,,,3.51,,663.0
+cheese,659,328924,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (AL,CA1) - CY120IL",47.3,21.6,,,,3.63,,711.0
+cheese,655,328857,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (CA2,NC) - CY120IM",47.5,20.3,,,,4.0,,751.0
+cheese,657,328881,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (CO,CT) - CY120IN",46.7,20.6,,,,4.01,,780.0
+cheese,658,328902,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (FL,MO) - CY120IP",47.3,20.7,,,,3.75,,587.0
+cheese,670,329119,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (IN,NY) - CY120LU",44.2,19.8,,,,4.09,,782.0
+cheese,653,328842,"Mozzarella cheese, low-moisture, part-skim, SARGENTO (MI) - CY120IO",46.3,20.9,,,,3.0,,677.0
+cheese,661,328967,"Mozzarella cheese, low-moisture, part-skim, store brand, AMERICAS CHOICE  (NY) - CY120IW",43.4,17.8,,,,4.15,,799.0
+cheese,667,329058,"Mozzarella cheese, low-moisture, part-skim, store brand, GREAT VALUE & SHOP RITE (AL,CT) - CY120IZ",44.2,19.4,,,,3.52,,616.0
+cheese,665,329024,"Mozzarella cheese, low-moisture, part-skim, store brand, HYVEE & PUBLIX (FL,MO) - CY120J0",43.9,19.1,,,,3.93,,728.0
+cheese,669,329098,"Mozzarella cheese, low-moisture, part-skim, store brand, KROGER (MI,IN) - CY120J1",45.9,20.0,,,,3.95,,681.0
+cheese,668,329075,"Mozzarella cheese, low-moisture, part-skim, store brand, LUCERNE (CA1,CO) - CY120IX",45.8,21.1,,,,3.74,,720.0
+cheese,664,329012,"Mozzarella cheese, low-moisture, part-skim, store brand, MY ESSENTIALS & SUNNYSIDE FARMS (CA2,NC) - CY120IY",44.6,20.5,,,,3.35,,653.0
+cheese,663,329000,"Mozzarella cheese, low-moisture, part-skim, store brand/other brand, CRYSTAL FARMS & KROGER (CO,CT) - CY120IU",45.5,19.2,,,,3.81,,592.0
+cheese,386,324891,"Parmesan cheese, grated, KRAFT 100% (AL,CA1) - CY120JC",23.8,28.8,,,,7.02,,1460.0
+cheese,385,324881,"Parmesan cheese, grated, KRAFT 100% (CA2,NC) - CY120JD",23.7,30.4,,,,7.09,,1610.0
+cheese,388,324921,"Parmesan cheese, grated, KRAFT 100% (CO,CT) - CY120JE",23.6,29.6,,,,6.97,,1680.0
+cheese,383,324861,"Parmesan cheese, grated, KRAFT 100% (FL,MO) - CY120JF",23.9,28.7,,,,6.86,,1440.0
+cheese,384,324871,"Parmesan cheese, grated, KRAFT 100% (IN,NY) - CY120JB",23.4,28.7,,,,7.09,,1540.0
+cheese,389,324940,"Parmesan cheese, grated, KRAFT 100% (MI,OK) - CY120JG",23.4,27.9,,,,6.85,,1480.0
+cheese,393,325007,"Parmesan cheese, grated, store brand/other brand, FLORA & HYVEE (FL,MO) - CY120JL",22.0,28.4,,,,6.83,,1840.0
+cheese,391,324970,"Parmesan cheese, grated, store brand/other brand, GREAT VALUE (AL,OK) - CY120JI",23.1,26.0,,,,8.91,,2270.0
+cheese,394,325017,"Parmesan cheese, grated, store brand/other brand, KROGER (MI,IN) - CY120JM",20.2,35.2,,,,6.93,,1480.0
+cheese,390,324960,"Parmesan cheese, grated, store brand/other brand, MY ESSENTIALS & SUNNYSIDE FARMS (CA2,NC) - CY120JJ",20.3,26.6,,,,6.85,,1800.0
+cheese,387,324913,"Parmesan cheese, grated, store brand/other brand, PRICE CHOPPER (CT) - CY120JH",21.5,23.8,,,,6.63,,2350.0
+cheese,392,324989,"Parmesan cheese, grated, store brand/other brand, SAFEWAY KITCHENS (CO,CA1) - CY120JK",25.1,22.3,,,,7.74,,2080.0
+tomato,51,320413,"TOMATOES, GRAPE",92.8,,,,,,,
+tomato,52,320418,"TOMATOES, GRAPE",90.9,,,,,,,
+tomato,53,320423,"TOMATOES, GRAPE",92.4,,,,,,,
+tomato,54,320428,"TOMATOES, GRAPE",92.9,,,,,,,
+tomato,55,320433,"TOMATOES, GRAPE",93.0,,,,,,,
+tomato,56,320438,"TOMATOES, GRAPE",91.6,,,,,,,
+tomato,57,320443,"TOMATOES, GRAPE",93.0,0.7,,,,0.54,,6.0
+tomato,58,320451,"TOMATOES, GRAPE",92.7,0.6,,,2.2,0.64,,4.0
+tomato,59,320460,"TOMATOES, GRAPE",93.6,0.5,,,1.9,0.56,,5.0
+tomato,60,320476,"TOMATOES, GRAPE",92.0,,,,,,,
+tomato,61,320480,"TOMATOES, GRAPE",93.4,0.46,,,,0.58,,7.0
+tomato,62,320485,"TOMATOES, GRAPE",92.5,,,,,,,
+tomato,63,320489,"TOMATOES, GRAPE",93.3,,,,,,,
+tomato,64,320494,"TOMATOES, GRAPE",92.6,,,,,,,
+tomato,65,320499,"TOMATOES, GRAPE",92.7,0.82,,,,0.51,,3.0
+tomato,66,320504,"TOMATOES, GRAPE",91.0,,,,,,,
+tomato,67,320507,"TOMATOES, GRAPE",91.5,,,,,,,
+tomato,68,320512,"TOMATOES, GRAPE",92.6,0.69,,,2.2,0.54,,10.0
+tomato,1982,1750662,"TOMATOES, ROMA",89.24877706422019,0.4853636363636364,,,1.45775,0.6377972972972973,,25.56756198347108
+tomato,2064,1999798,"TOMATOES, ROMA",91.93285072463767,0.6755714285714286,,,0.82325,0.8533802816901409,,38.05240740740741

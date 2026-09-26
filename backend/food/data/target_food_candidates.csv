@@ -1,0 +1,271 @@
+commodity,fdc_id,description,data_type,food_category_id,score
+apple,1105805,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105806,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105807,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105808,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105809,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105810,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105811,"APPLES, FUJI",sample_food,9.0,120.0
+apple,1105812,"APPLES, FUJI",market_acquisition,9.0,120.0
+apple,1105813,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105814,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105815,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105816,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105534,"APPLES, HONEYCRISP",sub_sample_food,9.0,120.0
+apple,1105818,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105819,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105820,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105821,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105822,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105823,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105824,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105825,"APPLES, FUJI",sample_food,9.0,120.0
+apple,1105826,"APPLES, FUJI",market_acquisition,9.0,120.0
+apple,1105827,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105828,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105829,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105830,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105817,"APPLES, FUJI",sub_sample_food,9.0,120.0
+apple,1105776,"APPLES, GALA",sub_sample_food,9.0,120.0
+apple,1105777,"APPLES, GALA",sub_sample_food,9.0,120.0
+apple,1105778,"APPLES, GALA",sub_sample_food,9.0,120.0
+banana,1105293,"BANANAS, RIPE",sub_sample_food,9.0,120.0
+banana,1105292,"BANANAS, RIPE",sub_sample_food,9.0,120.0
+banana,1105291,"Bananas, ripe",sub_sample_food,9.0,120.0
+banana,1105290,"Bananas, Ripe",sub_sample_food,9.0,120.0
+banana,790678,"Bananas, Overripe",sub_sample_food,9.0,120.0
+banana,790677,"Bananas, overripe",sub_sample_food,9.0,120.0
+banana,790676,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790675,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790674,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790673,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790672,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790671,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790670,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790669,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790668,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790667,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790666,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790665,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790664,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790663,"BANANAS, OVERRIPE",market_acquisition,9.0,120.0
+banana,790694,"Bananas, overripe",sub_sample_food,9.0,120.0
+banana,790693,"Bananas, Overripe",sub_sample_food,9.0,120.0
+banana,790692,"Bananas, overripe",sub_sample_food,9.0,120.0
+banana,790691,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790690,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790689,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790688,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790687,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790686,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+banana,790685,"BANANAS, OVERRIPE",sub_sample_food,9.0,120.0
+potato,2644259,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644243,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644242,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644241,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644240,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644239,"Potatoes, gold, without skin, raw",sub_sample_food,,105.0
+potato,2644214,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644213,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644212,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644211,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644210,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644209,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644208,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644207,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644206,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644205,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644204,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644203,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644202,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644201,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644200,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644199,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644198,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644197,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644196,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644195,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644194,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644193,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644192,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+potato,2644191,"Potatoes, red, without skin, raw",sub_sample_food,,105.0
+tomato,2003569,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003566,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003565,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003564,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003563,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003562,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003561,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2003560,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002816,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002815,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002814,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002813,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002812,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002811,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,2002810,"TOMATOES, ROMA",sub_sample_food,11.0,120.0
+tomato,320444,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+tomato,320443,"TOMATOES, GRAPE",sample_food,11.0,120.0
+tomato,320442,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320441,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320440,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+tomato,320439,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+tomato,320438,"TOMATOES, GRAPE",sample_food,11.0,120.0
+tomato,320437,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320436,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320435,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+tomato,320434,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+tomato,320433,"TOMATOES, GRAPE",sample_food,11.0,120.0
+tomato,320432,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320431,"TOMATOES, GRAPE",sub_sample_food,11.0,120.0
+tomato,320430,"TOMATOES, GRAPE",market_acquisition,11.0,120.0
+rice,2715494,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715493,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715495,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715509,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715496,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715480,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715481,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715482,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715483,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715484,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715485,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715486,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715487,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715488,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715489,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715490,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715491,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715492,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715462,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715463,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715464,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715465,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715466,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715467,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715468,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715469,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715470,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715471,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715472,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+rice,2715473,"Rice, red, unenriched, dry, raw",sub_sample_food,20.0,105.0
+wheat,2710961,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710963,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710965,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710967,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710969,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710971,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710973,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710975,"Einkorn, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710977,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710979,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710981,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710983,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710985,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710987,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710989,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710991,"Khorasan, grain, wheat berry, dry, raw",sample_food,20.0,75.0
+wheat,2710960,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710962,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710964,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710966,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710968,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710970,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710972,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710974,"Einkorn, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710976,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710978,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710980,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710982,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710984,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+wheat,2710986,"Khorasan, grain, wheat berry, dry, raw",market_acquisition,20.0,75.0
+nuts,2643905,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,323294,"Nuts, almonds, dry roasted, with salt added",foundation_food,12.0,105.0
+nuts,2346392,"Nuts, pine nuts, raw",foundation_food,12.0,105.0
+nuts,2346393,"Nuts, almonds, whole, raw",foundation_food,12.0,105.0
+nuts,2346394,"Nuts, walnuts, English, halves, raw",foundation_food,12.0,105.0
+nuts,2346395,"Nuts, pecans, halves, raw",foundation_food,12.0,105.0
+nuts,2346548,"Nuts, pine nuts, raw",sample_food,12.0,105.0
+nuts,2346550,"Nuts, pine nuts, raw",sample_food,12.0,105.0
+nuts,2346552,"Nuts, pine nuts, raw",sample_food,12.0,105.0
+nuts,2643889,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643888,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643887,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643886,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643885,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643884,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643883,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643882,"Nuts, pine nuts, raw",sub_sample_food,,105.0
+nuts,2643881,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643880,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643879,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643878,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643877,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643876,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643875,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2643874,"Nuts, almonds, raw, whole",sub_sample_food,,105.0
+nuts,2346553,"Nuts, pine nuts, raw",market_acquisition,12.0,105.0
+nuts,2346551,"Nuts, pine nuts, raw",market_acquisition,12.0,105.0
+nuts,2346549,"Nuts, pine nuts, raw",market_acquisition,12.0,105.0
+nuts,2346547,"Nuts, pine nuts, raw",market_acquisition,12.0,105.0
+nuts,2346610,"Nuts, pecans, raw, halves",sample_food,12.0,105.0
+cheese,747183,Cheese,sub_sample_food,1.0,235.0
+cheese,747182,Cheese,sub_sample_food,1.0,235.0
+cheese,747188,Cheese,sub_sample_food,1.0,235.0
+cheese,747130,Cheese,sub_sample_food,1.0,235.0
+cheese,747131,Cheese,sub_sample_food,1.0,235.0
+cheese,747132,Cheese,sub_sample_food,1.0,235.0
+cheese,747133,Cheese,sub_sample_food,1.0,235.0
+cheese,747134,Cheese,sub_sample_food,1.0,235.0
+cheese,747180,Cheese,sub_sample_food,1.0,235.0
+cheese,747177,Cheese,sub_sample_food,1.0,235.0
+cheese,747176,Cheese,sub_sample_food,1.0,235.0
+cheese,747152,Cheese,sub_sample_food,1.0,235.0
+cheese,747174,Cheese,sub_sample_food,1.0,235.0
+cheese,747171,Cheese,sub_sample_food,1.0,235.0
+cheese,747170,Cheese,sub_sample_food,1.0,235.0
+cheese,747169,Cheese,sub_sample_food,1.0,235.0
+cheese,747168,Cheese,sub_sample_food,1.0,235.0
+cheese,747213,Cheese,sub_sample_food,1.0,235.0
+cheese,747212,Cheese,sub_sample_food,1.0,235.0
+cheese,747211,Cheese,sub_sample_food,1.0,235.0
+cheese,747186,Cheese,sub_sample_food,1.0,235.0
+cheese,747187,Cheese,sub_sample_food,1.0,235.0
+cheese,747189,Cheese,sub_sample_food,1.0,235.0
+cheese,747175,Cheese,sub_sample_food,1.0,235.0
+cheese,747162,Cheese,sub_sample_food,1.0,235.0
+cheese,747163,Cheese,sub_sample_food,1.0,235.0
+cheese,747164,Cheese,sub_sample_food,1.0,235.0
+cheese,747165,Cheese,sub_sample_food,1.0,235.0
+cheese,747159,Cheese,sub_sample_food,1.0,235.0
+cheese,747137,Cheese,sub_sample_food,1.0,235.0
+bread,2765210,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765209,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765208,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765190,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765189,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765188,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765187,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765186,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765185,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765184,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765183,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765182,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765181,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765180,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765179,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765205,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765204,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765203,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765202,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765201,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765200,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765199,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765198,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765197,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765196,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765195,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765178,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765177,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765176,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0
+bread,2765175,"Bread, mulitgrain, commercial",sub_sample_food,18.0,105.0

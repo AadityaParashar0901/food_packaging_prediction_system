@@ -1,0 +1,75 @@
+{
+  "features": [
+    "moisture",
+    "fat",
+    "ash",
+    "sodium",
+    "pH",
+    "water_activity",
+    "respiration_rate",
+    "ethylene_rate",
+    "temperature",
+    "relative_humidity",
+    "desired_shelf_life",
+    "commodity",
+    "storage_type",
+    "transportation_condition"
+  ],
+  "numeric_features": [
+    "moisture",
+    "fat",
+    "ash",
+    "sodium",
+    "pH",
+    "water_activity",
+    "respiration_rate",
+    "ethylene_rate",
+    "temperature",
+    "relative_humidity",
+    "desired_shelf_life"
+  ],
+  "categorical_features": [
+    "commodity",
+    "storage_type",
+    "transportation_condition"
+  ],
+  "classification_targets": [
+    "recommended_material",
+    "sealability",
+    "MAP_suitability",
+    "mechanical_strength"
+  ],
+  "regression_targets": [
+    "film_thickness",
+    "OTR_requirement",
+    "WVTR_requirement"
+  ],
+  "classification_results": {
+    "recommended_material": {
+      "accuracy": 1.0
+    },
+    "sealability": {
+      "accuracy": 1.0
+    },
+    "MAP_suitability": {
+      "accuracy": 1.0
+    },
+    "mechanical_strength": {
+      "accuracy": 1.0
+    }
+  },
+  "regression_results": {
+    "film_thickness": {
+      "mae": 0.0
+    },
+    "OTR_requirement": {
+      "mae": 0.0
+    },
+    "WVTR_requirement": {
+      "mae": 0.0
+    }
+  },
+  "train_rows": 2187,
+  "test_rows": 549,
+  "random_state": 42
+}

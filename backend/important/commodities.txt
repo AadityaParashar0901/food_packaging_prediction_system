@@ -1,0 +1,13 @@
+COMMODITIES = [
+    "apple",
+    "banana",
+    "potato",
+    "tomato",
+    "rice",
+    "wheat",
+    "nuts",
+    "chips",
+    "cheese",
+    "bread",
+]
+

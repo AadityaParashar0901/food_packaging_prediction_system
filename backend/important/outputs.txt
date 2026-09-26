@@ -1,0 +1,12 @@
+Packaging Material,
+OTR,
+WVTR,
+Film Thickness,
+Sealability,
+Gas permeability,
+Mechanical strength,
+MAP suitability,
+Packaging type,
+O2 target,
+CO2 target,
+breathability
