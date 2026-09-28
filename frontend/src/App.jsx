@@ -34,6 +34,7 @@ import AutoAwesomeOutlinedIcon from "@mui/icons-material/AutoAwesomeOutlined";
 import RefreshOutlinedIcon from "@mui/icons-material/RefreshOutlined";
 import { appTheme } from "./theme";
 import { getRecommendation } from "./api";
+import ScrollPackagingJourney from "./components/ScrollPackagingJourney";
 
 const initialForm = {
   commodity: "",
@@ -250,7 +251,9 @@ export default function App() {
           </Container>
         </Box>
 
-        <Container maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
+        <ScrollPackagingJourney />
+
+        <Container id="food-storage-profile" maxWidth="lg" sx={{ py: { xs: 4, md: 6 } }}>
           <Box sx={{ maxWidth: 980, mx: "auto" }}>
             <Box sx={{ mb: 4 }}>
               <Typography variant="h5">Food & storage profile</Typography>
