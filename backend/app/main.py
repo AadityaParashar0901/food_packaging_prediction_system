@@ -45,7 +45,7 @@ origins = [
     origin.strip()
     for origin in os.getenv(
         "FRONTEND_ORIGIN",
-        "http://localhost:5173,http://localhost:5174",
+        "https://food-packaging-prediction-system.vercel.app",
     ).split(",")
     if origin.strip()
 ]
