@@ -67,7 +67,6 @@ app.include_router(
 
 app.include_router(
     packaging_router,
-    prefix="/api",
 )
 
 
