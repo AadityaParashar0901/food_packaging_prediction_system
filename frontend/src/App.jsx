@@ -52,6 +52,18 @@ const initialForm = {
 };
 
 function NumberField({ name, label, value, onChange, helperText, required = true }) {
+  const ranges = {
+    moisture: { min: 0, max: 100 },
+    fat: { min: 0, max: 100 },
+    pH: { min: 0, max: 14 },
+    water_activity: { min: 0, max: 1 },
+    respiration_rate: { min: 0 },
+    ethylene_rate: { min: 0 },
+    temperature: { min: -30, max: 60 },
+    relative_humidity: { min: 0, max: 100 },
+    desired_shelf_life: { min: 0.01 },
+  };
+
   return (
     <TextField
       name={name}
@@ -60,7 +72,7 @@ function NumberField({ name, label, value, onChange, helperText, required = true
       value={value}
       onChange={onChange}
       required={required}
-      inputProps={{ step: "any" }}
+      inputProps={{ step: "any", ...ranges[name] }}
       helperText={helperText}
     />
   );
@@ -241,7 +253,7 @@ export default function App() {
               <Inventory2OutlinedIcon sx={{ fontSize: 40 }} />
               <Box>
                 <Typography variant="h3" sx={{ fontSize: { xs: "2rem", md: "2.7rem" } }}>
-                  PackSmart
+                  Pactora
                 </Typography>
                 <Typography sx={{ opacity: 0.88, mt: 0.5 }}>
                   Intelligent food packaging recommendation

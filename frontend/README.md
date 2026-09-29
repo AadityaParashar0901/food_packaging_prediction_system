@@ -1,4 +1,4 @@
-# PackSmart Frontend
+# Pactora Frontend
 
 React + Vite + Material UI frontend for the food packaging recommendation system.
 
